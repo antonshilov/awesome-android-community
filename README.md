@@ -16,3 +16,5 @@ A curated list of awesome resources of Android developers community
 ## Youtube Channels
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug "Android Dialogs")
 - [Android Developers](https://www.youtube.com/user/androiddevelopers "Android Developers")
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
