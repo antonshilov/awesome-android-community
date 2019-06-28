@@ -13,6 +13,7 @@ A curated list of awesome resources of Android developers community
 - [Fragmented](https://fragmentedpodcast.com/ "Fragmented")
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast "The Context")
 - [Talking Kotlin](http://talkingkotlin.com/ "Talking Kotlin")
+- Android Dev Podcast [RUS 🇷🇺](https://androiddev.apptractor.ru/) [EN 🇺🇸](https://devpodcast.app/)
 ## Youtube Channels
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug "Android Dialogs")
 - [Android Developers](https://www.youtube.com/user/androiddevelopers "Android Developers")
